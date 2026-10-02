@@ -17,7 +17,7 @@
     --gradient: linear-gradient(120deg, #a78bfa, #67e8f9, #f0abfc);
     --font-body: "DM Sans", sans-serif;
     --font-heading: "Space Grotesk", sans-serif;
-    --container: 1160px;
+    --container: 1280px;
 }
 
 * {
